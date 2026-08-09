@@ -54,6 +54,20 @@ observability : CloudWatch · Prometheus · Grafana · ELK Stack
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8E2DE2,100:00C9FF&amp;height=3&amp;width=100%25" width="100%"/>
+
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="28"/> `contribution matrix` — 3D activity view
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/psgaikwad2003/psgaikwad2003/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<sub>⚙️ Auto-generated daily via GitHub Actions — see setup note below</sub>
+
+</div>
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/> `deployment pipeline` — how code ships
 
 ```mermaid
