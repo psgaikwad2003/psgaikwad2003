@@ -234,7 +234,7 @@ flowchart LR
 
 <div align="center">
 
-### 📡 `connect --to=prajwal`
+### 📡 `connect --to = prajwal`
 
 📧 **psgaikwad2003@gmail.com** &nbsp;│&nbsp; 📱 **+91 9359850496** &nbsp;│&nbsp; 📍 **Pune, Maharashtra, India**
 
