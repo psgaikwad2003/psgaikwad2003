@@ -1,263 +1,245 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:00C9FF,100:00F5A0&height=200&section=header&text=Prajwal%20Gaikwad&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20and%20DevOps%20%7C%20Automation&descSize=18&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8E2DE2,25:4A00E0,50:00C9FF,75:00F5A0,100:00F5A0&amp;height=180&amp;section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F5A0&center=true&vCenter=true&width=640&lines=Shipping+containers+to+AWS+with+CI%2FCD;Building+React+and+REST+API+apps;Automating+boring+work+with+UiPath+and+Python;Open+to+DevOps+%2F+Full-Stack+roles" alt="Typing SVG"/>
+<h1 align="center">⚡ PRAJWAL GAIKWAD ⚡</h1>
+<h3 align="center">🖥️ FULL-STACK DEV &nbsp;|&nbsp; ☁️ CLOUD &amp; DEVOPS &nbsp;|&nbsp; 🤖 AUTOMATION 🖥️</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2600&amp;pause=800&amp;color=00F5A0&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=root%40prajwal%3A~%24+deploy+--env+production;%E2%9C%93+Provisioning+AWS+infrastructure...;%E2%9C%93+Building+CI%2FCD+pipelines...;%E2%9C%93+Automating+everything+with+RPA;%E2%9C%93+status%3A+ONLINE" alt="Typing SVG" />
 
 <br/>
 
-<!-- ─── NAVIGATION (click to jump) ─── -->
-<a href="#about"><img src="https://img.shields.io/badge/About-8E2DE2?style=flat-square"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-4A00E0?style=flat-square"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-00C9FF?style=flat-square"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/Experience-00B894?style=flat-square"/></a>
-<a href="#stats"><img src="https://img.shields.io/badge/Stats-00F5A0?style=flat-square&labelColor=000&color=00F5A0"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-FF6B6B?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5A0?style=for-the-badge&amp;labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-00C9FF?style=for-the-badge&amp;labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ROLE-DEVOPS%20%2B%20FULLSTACK-8E2DE2?style=for-the-badge&amp;labelColor=0d1117"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:psgaikwad2003@gmail.com?subject=Hello%20Prajwal"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/919359850496"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://github.com/psgaikwad2003?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Prajwal_Gaikwad">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+</a>
+<a href="https://github.com/psgaikwad2003/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
+<a href="mailto:psgaikwad2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+</a>
+<a href="tel:+919359850496">
+  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"/>
+</a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=psgaikwad2003&label=Views&color=00C9FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=psgaikwad2003&amp;label=PROFILE+VIEWS&amp;color=00F5A0&amp;style=for-the-badge" alt="profile views"/>
 
 </div>
 
 <br/>
 
-<h2 id="about">👋 About</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8E2DE2,100:00C9FF&amp;height=3&amp;width=100%25" width="100%"/>
 
-I build, containerize, deploy and monitor software. I'm a **Computer Engineering graduate** (CGPA 8.83) focused on **AWS, Docker, CI/CD and React**, and I like automating anything I'd otherwise do twice.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> `whoami`
 
-<table>
-<tr>
-<td>🔭 <b>Building</b></td>
-<td>CI/CD pipelines and containerized deployments on AWS</td>
-</tr>
-<tr>
-<td>🌱 <b>Learning</b></td>
-<td>Kubernetes · Terraform · GitHub Actions</td>
-</tr>
-<tr>
-<td>🎓 <b>Education</b></td>
-<td>B.E. Computer Engineering, Pravara Rural Engineering College, Loni</td>
-</tr>
-<tr>
-<td>📍 <b>Based in</b></td>
-<td>Pune, Maharashtra, India</td>
-</tr>
-<tr>
-<td>💬 <b>Ask me about</b></td>
-<td>AWS VPC · Docker · Jenkins · React · RPA with UiPath</td>
-</tr>
-<tr>
-<td>🎯 <b>Looking for</b></td>
-<td>DevOps, Cloud or Full-Stack roles</td>
-</tr>
-</table>
+```yaml
+$ cat profile.yaml
+──────────────────────────────────────────────
+name        : Prajwal Gaikwad
+role        : Full-Stack Developer · Cloud &amp; DevOps Engineer
+location    : Pune, Maharashtra, IN
+education   : B.E. Computer Engineering | CGPA 8.83/10
+              Pravara Rural Engineering College, Loni
+mission     : Ship reliable systems. Automate everything. Never touch it twice.
+stack_focus : AWS · Docker · CI/CD · React · REST APIs · RPA
+observability : CloudWatch · Prometheus · Grafana · ELK Stack
+──────────────────────────────────────────────
+```
 
 <br/>
 
-<h2 id="stack">🧰 Stack <sub><sup>(click any icon)</sup></sub></h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8E2DE2,100:00C9FF&amp;height=3&amp;width=100%25" width="100%"/>
+
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="28"/> `contribution matrix` — 3D activity view
 
 <div align="center">
 
-<table>
-<tr><td align="center"><b>☁️ Cloud & DevOps</b></td><td>
-<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="44"/></a>
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="44"/></a>
-<a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" width="44"/></a>
-<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="44"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="44"/></a>
-</td></tr>
-<tr><td align="center"><b>📡 Observability</b></td><td>
-<a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" width="44"/></a>
-<a href="https://grafana.com"><img src="https://skillicons.dev/icons?i=grafana" width="44"/></a>
-<a href="https://www.elastic.co"><img src="https://skillicons.dev/icons?i=elasticsearch" width="44"/></a>
-<a href="https://www.elastic.co/kibana"><img src="https://skillicons.dev/icons?i=kibana" width="44"/></a>
-<a href="https://aws.amazon.com/cloudwatch/"><img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/></a>
-</td></tr>
-<tr><td align="center"><b>💻 Code</b></td><td>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="44"/></a>
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="44"/></a>
-<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="44"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="44"/></a>
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="44"/></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="44"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="44"/></a>
-</td></tr>
-<tr><td align="center"><b>🗄️ Data & Tools</b></td><td>
-<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="44"/></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="44"/></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="44"/></a>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="44"/></a>
-<a href="https://www.uipath.com"><img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/></a>
-<a href="https://powerbi.microsoft.com"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-</td></tr>
-<tr><td align="center"><b>🎯 Learning</b></td><td>
-<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="44"/></a>
-<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" width="44"/></a>
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="44"/></a>
-</td></tr>
-</table>
+<img src="https://raw.githubusercontent.com/psgaikwad2003/psgaikwad2003/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<sub>⚙️ Auto-generated daily via GitHub Actions</sub>
 
 </div>
 
-<br/>
-
-<h2 id="projects">🏗️ Projects <sub><sup>(click to expand)</sup></sub></h2>
-
-<details open>
-<summary><b>☁️ AWS VPC Web Server Deployment</b> &nbsp;·&nbsp; <code>EC2</code> <code>VPC</code> <code>IAM</code> <code>NAT</code></summary>
-<br/>
-
-- Designed a **custom VPC** with public and private subnets, route tables and a NAT gateway
-- Hardened an **Apache EC2** server using Security Groups, NACLs and an Elastic IP
-- Applied **AWS Well-Architected** practices for security and reliability
-
-<!-- 🔗 Add: [📂 Repo](https://github.com/psgaikwad2003/REPO) · [📖 Write-up](URL) -->
-</details>
-
-<details>
-<summary><b>🧾 Invoice Extraction Automation</b> &nbsp;·&nbsp; <code>UiPath</code> <code>Power BI</code> <code>RPA</code></summary>
-<br/>
-
-- End-to-end RPA pipeline that extracts **vendor, amount, date and tax**
-- **Live Power BI dashboards** for real-time financial data
-- Zero manual data entry
-
-<!-- 🔗 Add: [📂 Repo](https://github.com/psgaikwad2003/REPO) -->
-</details>
-
-<details>
-<summary><b>📦 Stock Management System</b> &nbsp;·&nbsp; <code>HTML</code> <code>CSS</code> <code>JS</code> <code>MySQL</code></summary>
-<br/>
-
-- Automated **low-stock alerts**
-- **Role-based access control** (RBAC)
-- Query optimization for large datasets
-
-<!-- 🔗 Add: [📂 Repo](https://github.com/psgaikwad2003/REPO) -->
-</details>
-
-<details>
-<summary><b>🛒 E-Commerce Platform</b> &nbsp;·&nbsp; <code>HTML</code> <code>CSS</code> <code>JavaScript</code></summary>
-<br/>
-
-- Dynamic **product filtering**
-- **Real-time cart** updates
-- Fully responsive UI
-
-<!-- 🔗 Add: [📂 Repo](https://github.com/psgaikwad2003/REPO) · [🌐 Live demo](URL) -->
-</details>
+> **Note:** This graph is generated by a GitHub Action ([`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib)) that runs once a day and commits a fresh SVG to this repo under `profile-3d-contrib/`. If you're forking or reusing this README, add the workflow file at `.github/workflows/profile-3d-contrib.yml` and run it once manually (Actions tab → Run workflow) — otherwise this image will show as broken until the first run completes.
 
 <br/>
 
-<details>
-<summary><b>🚀 See how my code ships (deployment pipeline)</b></summary>
-<br/>
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/> `deployment pipeline` — how code ships
 
 ```mermaid
 flowchart LR
-    A(["Code<br/>React / JS / Python"]) --> B["GitHub"]
-    B --> C["Jenkins CI<br/>Build and Test"]
-    C --> D["Docker"]
-    D --> E["AWS VPC<br/>EC2 / Subnets / SGs"]
-    E --> F["Production<br/>Apache + Elastic IP"]
-    E --> G["CloudWatch"]
-    F --> J["Prometheus"]
-    J --> K["Grafana"]
-    F --> L["ELK Stack"]
-    C -.triggers.-> H["UiPath RPA"]
-    H --> I["Power BI"]
+    A(["👨‍💻 Code<br/>React · JS · Python"]):::dev --> B["🔀 Git / GitHub<br/>Version Control"]:::scm
+    B --> C["🏗️ Jenkins CI<br/>Build &amp; Test"]:::ci
+    C --> D["🐳 Docker<br/>Containerize"]:::docker
+    D --> E["☁️ AWS VPC<br/>EC2 · Subnets · SGs"]:::cloud
+    E --> F["🌐 Production<br/>Apache + Elastic IP"]:::prod
+    E --> G["📈 CloudWatch<br/>Metrics &amp; Alarms"]:::mon
+    F --> J["🔥 Prometheus<br/>Metrics Scraping"]:::obs
+    J --> K["📊 Grafana<br/>Dashboards &amp; Alerts"]:::obs
+    F --> L["📚 ELK Stack<br/>Log Aggregation"]:::obs
+    H["🤖 UiPath RPA"]:::rpa --> I["📊 Power BI<br/>Live Dashboards"]:::bi
+    C -.triggers.-> H
+
+    classDef dev fill:#1a1a2e,stroke:#00F5A0,color:#00F5A0,stroke-width:2px
+    classDef scm fill:#1a1a2e,stroke:#8E2DE2,color:#fff,stroke-width:2px
+    classDef ci fill:#1a1a2e,stroke:#00C9FF,color:#fff,stroke-width:2px
+    classDef docker fill:#1a1a2e,stroke:#2496ED,color:#2496ED,stroke-width:2px
+    classDef cloud fill:#1a1a2e,stroke:#FF9900,color:#FF9900,stroke-width:2px
+    classDef prod fill:#1a1a2e,stroke:#00F5A0,color:#00F5A0,stroke-width:2px
+    classDef mon fill:#1a1a2e,stroke:#00C9FF,color:#fff,stroke-width:2px
+    classDef obs fill:#1a1a2e,stroke:#F46800,color:#F46800,stroke-width:2px
+    classDef rpa fill:#1a1a2e,stroke:#FA4616,color:#FA4616,stroke-width:2px
+    classDef bi fill:#1a1a2e,stroke:#F2C811,color:#F2C811,stroke-width:2px
 ```
 
-</details>
-
 <br/>
 
-<h2 id="experience">💼 Experience</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00C9FF,100:00F5A0&amp;height=3&amp;width=100%25" width="100%"/>
 
-<details open>
-<summary><b>Web Development Intern</b> · Exaltasoft Solutions, Pune &nbsp;<sub>Dec 2024 – Feb 2025</sub></summary>
-<br/>
-
-- Built responsive **React.js** components from design specs
-- Integrated **REST APIs** for dynamic front-end features
-- Ran cross-browser testing and fixed rendering defects before deploy
-</details>
-
-<details>
-<summary><b>Python Programming Intern</b> &nbsp;<sub>Feb 2024 – Mar 2024</sub></summary>
-<br/>
-
-- Automated backend data-handling workflows with **Python scripts**
-</details>
-
-<details>
-<summary><b>🎓 Certifications</b></summary>
-<br/>
-
-- NPTEL: Database Management System
-- Exaltasoft: Web Development Internship
-- Python Programming Internship
-</details>
-
-<br/>
-
-<h2 id="stats">📊 Stats</h2>
-
-<details>
-<summary><b>Show GitHub stats</b></summary>
-<br/>
+## <img src="https://media.giphy.com/media/LMcB8XospEButvzKGE/giphy.gif" width="28"/> `tech stack`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=psgaikwad2003&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5A0&icon_color=00C9FF&text_color=e0fbfc&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgaikwad2003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5A0&text_color=e0fbfc" height="165"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=psgaikwad2003&theme=radical&hide_border=true&background=0d1117&ring=00F5A0&fire=00C9FF&currStreakLabel=00F5A0" width="65%"/>
+**⚙️ Cloud &amp; DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,bash&amp;theme=dark" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=psgaikwad2003&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5A0&line=00C9FF&point=ffffff" width="95%"/>
+**📡 Observability &amp; Monitoring**
+<br/>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,kibana&amp;theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&amp;logo=amazoncloudwatch&amp;logoColor=white"/>
+
+**💻 Languages &amp; Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,html,css&amp;theme=dark" />
+
+**🗄️ Database, Tools &amp; Automation**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&amp;theme=dark" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&amp;logo=uipath&amp;logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
 
 </div>
-</details>
 
-<!--
-  OPTIONAL: snake + 3D graph. Uncomment AFTER adding .github/workflows/profile.yml
-  and running it once from the Actions tab.
-
-<details>
-<summary><b>🐍 Contribution snake and 3D graph</b></summary>
 <br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> `infrastructure built`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ AWS VPC Web Server Deployment
+`EC2` `VPC` `IAM` `Security Groups` `NAT Gateway`
+
+```diff
++ Custom VPC: public/private subnets, route tables, NAT
++ Hardened EC2 (Apache) — Security Groups, NACLs, Elastic IP
++ AWS Well-Architected Framework practices applied
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 Invoice Extraction Automation
+`UiPath` `Power BI` `RPA` `CI-triggered`
+
+```diff
++ End-to-end RPA pipeline: vendor, amount, date, tax
++ Live Power BI dashboards for real-time financial data
++ Zero manual data entry
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Stock Management System
+`HTML` `CSS` `JS` `MySQL` `RBAC`
+
+```diff
++ Automated low-stock alerts
++ Role-based access control
++ Query optimization for large datasets
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platform
+`HTML` `CSS` `JavaScript`
+
+```diff
++ Dynamic product filtering
++ Real-time cart updates
++ Fully responsive UI
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8E2DE2,100:00C9FF&amp;height=3&amp;width=100%25" width="100%"/>
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> `experience.log`
+
+```bash
+[2024-12-01 → 2025-02-28] Web Development Intern @ Exaltasoft Solutions, Pune
+  ├─ Built responsive React.js components from design specs
+  ├─ Integrated REST APIs for dynamic front-end features
+  └─ Cross-browser testing → resolved rendering defects pre-deploy
+
+[2024-02-01 → 2024-03-31] Python Programming Intern
+  └─ Automated backend data-handling workflows via Python scripts
+```
+
+<br/>
+
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="28"/> `system metrics`
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/psgaikwad2003/psgaikwad2003/output/github-snake-dark.svg" width="100%"/>
-<img src="https://raw.githubusercontent.com/psgaikwad2003/psgaikwad2003/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=psgaikwad2003&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00F5A0&amp;icon_color=00C9FF&amp;text_color=e0fbfc&amp;count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgaikwad2003&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00F5A0&amp;text_color=e0fbfc" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psgaikwad2003&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=00F5A0&amp;fire=00C9FF&amp;currStreakLabel=00F5A0" width="65%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=psgaikwad2003&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=00F5A0&amp;line=00C9FF&amp;point=ffffff" width="95%"/>
+
 </div>
-</details>
--->
 
 <br/>
 
-<h2 id="contact">📡 Contact</h2>
+## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28"/> `certifications`
 
 <div align="center">
 
-**Let's build something reliable together.**
+![NPTEL](https://img.shields.io/badge/NPTEL-Database%20Management%20System-8E2DE2?style=for-the-badge&amp;labelColor=0d1117)
+![Exaltasoft](https://img.shields.io/badge/Exaltasoft-Web%20Dev%20Internship-00C9FF?style=for-the-badge&amp;labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-Programming%20Internship-00F5A0?style=for-the-badge&amp;labelColor=0d1117)
 
-<a href="mailto:psgaikwad2003@gmail.com?subject=Opportunity%20for%20Prajwal&body=Hi%20Prajwal%2C"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Send%20me%20an%20email-00F5A0?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://wa.me/919359850496?text=Hi%20Prajwal"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20Message%20on%20WhatsApp-25D366?style=for-the-badge&labelColor=0d1117"/></a>
-
-<sub>psgaikwad2003@gmail.com · +91 9359850496 · Pune, India</sub>
+</div>
 
 <br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/%E2%AC%86%20Back%20to%20top-8E2DE2?style=flat-square"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00F5A0,100:8E2DE2&amp;height=3&amp;width=100%25" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C9FF,100:8E2DE2&height=110&section=footer" width="100%"/>
+<div align="center">
+
+### 📡 `connect --to = prajwal`
+
+📧 **psgaikwad2003@gmail.com** &nbsp;│&nbsp; 📱 **+91 9359850496** &nbsp;│&nbsp; 📍 **Pune, Maharashtra, India**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F5A0,50:00C9FF,100:8E2DE2&amp;height=140&amp;section=footer" width="100%"/>
 
 </div>
