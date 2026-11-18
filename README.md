@@ -210,7 +210,7 @@ flowchart LR
 <img src="https://github-readme-stats.vercel.app/api?username=psgaikwad2003&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00F5A0&amp;icon_color=00C9FF&amp;text_color=e0fbfc&amp;count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgaikwad2003&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00F5A0&amp;text_color=e0fbfc" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psgaikwad2003&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=00F5A0&amp;fire=00C9FF&amp;currStreakLabel=00F5A0" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=psgaikwad2003&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=00F5A0&amp;fire=00C9FF&amp;currStreakLabel=00F5A0" width="65%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=psgaikwad2003&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=00F5A0&amp;line=00C9FF&amp;point=ffffff" width="95%"/>
 
